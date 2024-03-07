@@ -29,7 +29,7 @@ Configuração Inicial no Facebook
 
 Configuração no Instagram
 1 - Acessar o Instagram da conta adicionada no passo 11;
-2 - No menu ir na opção Configurações e selecionar "Apps e Sites";
+2 - No menu, ir na opção Configurações e selecionar "Apps e Sites";
 3 - Ir na guia: "Convite de Testador" e clicar no botão "Aceitar";
 
 Configuração Final no Facebook
