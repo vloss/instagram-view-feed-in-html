@@ -28,6 +28,12 @@
       }
     ?>
 
+    <?php 
+     echo "<pre>";
+    print_r($JSON_DATA);
+    echo "</pre>";
+    ?>
+
     <?php if (count($JSON_DATA->data) > 0){  ?>
       <table style="width: 800px;">
         <?php $quantidade = 0; ?>
